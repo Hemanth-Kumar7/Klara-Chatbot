@@ -1,5 +1,5 @@
 
-  Click to View: https://klarachatbot.netlify.app/
+Click to View: https://klarachatbot.netlify.app/ <br>
 
   ![chat bot](public/chatbot1.png)
   ![chat bot](public/chatbot2.png)
